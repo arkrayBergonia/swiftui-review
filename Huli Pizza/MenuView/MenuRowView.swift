@@ -13,7 +13,7 @@ struct MenuRowView: View {
         HStack(alignment:.top, spacing: 15) {
             Image("1_100w")
             VStack {
-                Text("Huli Chicken Pizza")
+                Text("Samgyupsal Package")
                 RatingsView()
             }
             Spacer()

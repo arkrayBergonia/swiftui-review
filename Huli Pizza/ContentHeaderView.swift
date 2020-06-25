@@ -15,11 +15,11 @@ struct ContentHeaderView: View {
                 Image("Surf Board")
                 .resizable()
                 .scaledToFit()
-                Text("Huli Pizza Company")
+                Text("")
                 .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
             }
             
-            Text("Order Pizza")
+            Text("Order Na!")
                 .font(.largeTitle)
         }
     }

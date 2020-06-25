@@ -11,7 +11,7 @@ import SwiftUI
 struct OrderRowView: View {
     var body: some View {
         HStack(alignment:.firstTextBaseline) {
-            Text("Your Order Pizza here")
+            Text("Your Samgyup Order here")
             Spacer()
             Text("$0.00")
         }
